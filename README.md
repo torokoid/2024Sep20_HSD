@@ -156,7 +156,7 @@ p.note { display: none; }
 <br><br><br><br><br><br><br><br><br>
 <h2><span class="yellow">現役時代は物置になっていたテーブルを整理して、PC作業場を作りました。<br>
   家庭内秘密基地ですね！</span></h2>
-<a href="20240920_008.JPG" target="_blank"><img src="20240920_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240920_009.JPG" target="_blank"><img src="20240920_008.JPG" alt="サンプル画像" width="900" /></a>
 
 
 

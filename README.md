@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(20240119_024.JPG) center/cover no-repeat;
+background:url(20240920_005.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -139,16 +139,21 @@ p.note { display: none; }
 <a href="20240920_005.JPG" target="_blank"><img src="20240920_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240920_006.JPG" target="_blank"><img src="20240920_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240920_007.JPG" target="_blank"><img src="20240920_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240920_008.JPG" target="_blank"><img src="20240920_008.JPG" alt="サンプル画像" width="900" /></a>
+
+
+
 <br>
 <!--YouTube動画のリンク例-->
-<h2><span class="yellow"><a href="https://youtube.com/shorts/3fxcP6xGUt0" target="_blank">新井さん奥様撮影動画リンク</a></span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VnMvJnA1qz4?si=4yVssre8ePAx8d0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <br>
 <h2><span class="yellow">懐かしい顔ぶれが集まりました<br>プールで見る顔ブレもありましたが、超久しぶりのメンバーも元気そうです<br>では、又の再会を楽しみにしています！</span></h2>
 
-
+<br><br><br>
+<h2><span class="yellow">現役時代は物置になっていたテーブルを整理して、PC作業場を作りました。<br>
+  家庭内秘密基地ですね！</span></h2>
+<a href="20240920_008.JPG" target="_blank"><img src="20240920_008.JPG" alt="サンプル画像" width="900" /></a>
 
 
 

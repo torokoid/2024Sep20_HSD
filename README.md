@@ -148,7 +148,7 @@ p.note { display: none; }
 
 
 <br>
-<h2><span class="yellow">残暑厳しい中水泳メンバーが集まりました<br>みんな元気そうです<br>では、又の再会を楽しみにしています！</span></h2>
+<h2><span class="yellow">残暑厳しい中、水泳メンバーが集まりました<br>みんな元気そうです<br>では、又の再会を楽しみにしています！</span></h2>
 
 <br><br><br>
 <h2><span class="yellow">現役時代は物置になっていたテーブルを整理して、PC作業場を作りました。<br>

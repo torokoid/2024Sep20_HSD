@@ -129,7 +129,7 @@ p.note { display: none; }
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
-<br><p>新年会写真集</p>
+<br><p>残暑会写真集</p>
 <h2><span class="yellow">宇都宮駅東口、@博多ダイニング よかろうもん！</span></h2>
 
 <a href="20240920_001.JPG" target="_blank"><img src="20240920_001.JPG" alt="サンプル画像" width="900" /></a>

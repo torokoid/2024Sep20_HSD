@@ -146,11 +146,14 @@ p.note { display: none; }
 <!--YouTube動画のリンク例-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VnMvJnA1qz4?si=4yVssre8ePAx8d0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br><br><br>
+<h2><span class="yellow">お知らせのメール</span></h2>
+<a href="20240920.png" target="_blank"><img src="20240920.png" alt="サンプル画像" width="900" /></a>
 
 <br>
 <h2><span class="yellow">残暑厳しい中、水泳メンバーが集まりました<br>みんな元気そうです<br>では、又の再会を楽しみにしています！</span></h2>
 
-<br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <h2><span class="yellow">現役時代は物置になっていたテーブルを整理して、PC作業場を作りました。<br>
   家庭内秘密基地ですね！</span></h2>
 <a href="20240920_008.JPG" target="_blank"><img src="20240920_008.JPG" alt="サンプル画像" width="900" /></a>

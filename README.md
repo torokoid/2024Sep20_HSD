@@ -146,6 +146,12 @@ p.note { display: none; }
 <!--YouTube動画のリンク例-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VnMvJnA1qz4?si=4yVssre8ePAx8d0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br><br>
+<h2><span class="yellow">定年退職祝い、頂きました（浜田さん撮影）</span></h2>
+<a href="20240920_015.png" target="_blank"><img src="20240920_015.png" alt="サンプル画像" width="900" /></a>
+
+
+
 <br><br><br>
 <h2><span class="yellow">お知らせのメール</span></h2>
 <a href="20240920.png" target="_blank"><img src="20240920.png" alt="サンプル画像" width="900" /></a>
